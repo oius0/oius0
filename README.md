@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on **open-source projects**, especially those related to **IoT**, **automation**, and **data analysis**.
 - 📫 How to reach me: (mailto:jennysubrastas25@gmail.com) or through my portfolio website(https://beacons.ai/o_ius0) (coming soon!).
 - 😊 Pronouns: She/Her
-- 🎉 Fun fact: I’m building my own tech brand 'o-ius,' aiming to expand my presence in the **internet and technology services industry**.
+- 🎉 Fun fact: I’m building my own tech brand 'COMING SOON,' aiming to expand my presence in the **internet and technology services industry**.
 
 <!--
 oius0/oius0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
